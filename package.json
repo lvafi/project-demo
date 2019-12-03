@@ -1,0 +1,14 @@
+{
+  "name": "projecr-demo",
+  "version": "1.0.0",
+  "description": "A demo for npm projects and package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liddie",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
